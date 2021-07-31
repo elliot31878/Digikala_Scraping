@@ -6,4 +6,4 @@ this application go-to webpage=>[Digikala] and get all mobile name and price and
 # Interview
 ![digikala](https://user-images.githubusercontent.com/63051195/127722615-ac17b8ec-64a4-44f1-8162-bb6feb3eced5.gif)
 
-#GodBye ;)
+# GodBye ;)
